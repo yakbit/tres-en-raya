@@ -12,6 +12,17 @@ Tecnologías usadas para el proyecto: React, JavaScript, CSS.
 
 # Ver [DEMO](https://tres-en-raya-juego.netlify.app/ "Heading link")
 
+🚀 Getting Started
+
+Visit YakGPT to try it out without installing, or follow these steps to run it locally:
+Prerequisites
+
+You'll need the following tools installed on your computer to run YakGPT locally.
+
+    Git
+    Yarn (or npm or pnpm)
+    Any modern web browser like Google Chrome, Mozilla Firefox, or Microsoft Edge
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
