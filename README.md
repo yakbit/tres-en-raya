@@ -10,7 +10,7 @@ Este es mi repositorio del proyecto de juego tres en raya.
 
 Tecnologías usadas para el proyecto: React, JavaScript, CSS.
 
-# Ver [DEMO](https://tres-en-raya-juego.netlify.app/ "Heading link"
+# Ver [DEMO](https://tres-en-raya-juego.netlify.app/ "Heading link")
 
 # Getting Started with Create React App
 
