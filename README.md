@@ -4,6 +4,14 @@
 
 ![](https://github.com/yakbit/tres-en-raya/blob/main/src/img/tres-en-raya.JPG)
 
+# Juego tres en raya
+
+Este es mi repositorio del proyecto de juego tres en raya.
+
+Tecnologías usadas para el proyecto: React, JavaScript, CSS.
+
+# Ver [DEMO](https://tres-en-raya-juego.netlify.app/ "Heading link"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
