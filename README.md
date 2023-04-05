@@ -1,6 +1,6 @@
 # Screenshots
 
-### filtrado de posts:
+### Captura de pantalla del juego:
 
 ![](https://github.com/yakbit/tres-en-raya/blob/main/src/img/tres-en-raya.JPG)
 
