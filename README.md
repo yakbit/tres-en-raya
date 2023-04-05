@@ -2,7 +2,7 @@
 
 ### filtrado de posts:
 
-![]()
+![](https://github.com/yakbit/tres-en-raya/blob/main/src/img/tres-en-raya.JPG)
 
 # Getting Started with Create React App
 
